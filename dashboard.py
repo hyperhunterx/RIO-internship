@@ -9,9 +9,6 @@ app.layout = html.Div(
     id="main-container",    
     children=[
         html.H3("Classification Report Dashboard")
-        html.H2("RIO INTERNSHIP-125")
-        html.H1("ROHIT JAIN")
-        
     ],
     className="container"
 )

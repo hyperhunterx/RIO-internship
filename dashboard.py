@@ -1,6 +1,4 @@
-from dash import Dash, dcc, html
-from dash.dependencies import Input, Output
-import plotly.graph_objs as go
+from dash import Dash,html
 
 app = Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
 
